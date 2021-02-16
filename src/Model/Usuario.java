@@ -8,12 +8,6 @@ public class Usuario {
     /**
      * Default constructor
      */
-    public Usuario() {
-    }
-
-    /**
-     * 
-     */
     private String user;
 
     /**
@@ -24,6 +18,16 @@ public class Usuario {
     /**
      * 
      */
-   // private void correoElectronico1;
+    private String correoElectronico1;
+
+    /**
+     * 
+     */
+    private String nombreCompleto;
+
+    /**
+     * 
+     */
+    private int edad;
 
 }
