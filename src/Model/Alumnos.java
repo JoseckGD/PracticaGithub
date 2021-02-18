@@ -13,4 +13,24 @@ public class Alumnos extends Usuario {
     public Alumnos() {
     }
 
+    /**
+     * 
+     */
+    private int matricula;
+
+    /**
+     * 
+     */
+    private String comp_Profesional;
+
+    /**
+     * 
+     */
+    private String grado;
+
+    /**
+     * 
+     */
+    private int edad;
+
 }
